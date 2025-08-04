@@ -13,7 +13,7 @@ class Program
         //Exercicio6.Executar(args);
         //Exercicio7.Executar(args);
         //Exercicio8.Executar(args);
-        Exercicio9.Executar(args);
+        //Exercicio9.Executar(args);
         //Exercicio10.Executar(args);
 
 
